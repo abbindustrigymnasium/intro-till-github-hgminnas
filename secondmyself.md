@@ -10,3 +10,4 @@
 # .avirks tta rekas ardna åskco snnif ted neM
 
 # je m'appelle Minna et j'ai seize ans. Il s'appelle Davit et il a 15 ans. Sa anniversaire est le 12 septembre, de quinze jours. Elle à coté moi s'appelle Jocelyn et sa anniversaire est le 1 septembre. Davit as des lunettes rose et bleu - c'est ne vrai pas. La personne en face à moi s'appelle Escargot. Il habille une robe blanc aves des chausettes rose. Davit aime faire du cheval avec les fleures son sa tête - c'est ne vrai pas.
+![image](https://github.com/user-attachments/assets/b36093ec-3c82-4f55-bc4d-d4f1cbe8ebf7)
