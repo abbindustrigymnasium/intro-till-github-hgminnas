@@ -7,3 +7,6 @@
 <h3> Det som jag också gillar är att cykla eller gå promenader när det är solnedgång ute. När jag brukar cykla hem brukar det vara solnedgång samtidigt som jag lyssnar på musik, vilket jag tycker är väldigt härligt.<h3>
 <h4>Det finns olika saker man kan <sub></sub>göra</sub> !!<h4>
 >undrar vad man kan hitta på för bus...
+
+<background #0969DA>
+
